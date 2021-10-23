@@ -23,12 +23,12 @@ The generated HTML file will be found in the GeneratedMarkup folder in the repo.
     SO THAT I can organize and plan my business
 
 ## Initialization
-- Download project files
-- Open Terminal to work in command line
-- Install Inquirer package into working directory
-- To initiate, on the command line write "node application.js"
-- Answer questions when prompted 
-- Once completed an HTML file will be generated using the users input
+- Download project files via Github
+- Open server.js file and change the password field to your own MySQL password
+- Open Terminal and proceed to type "npm install"
+- From here we will move to our database so type "cd db/" then type "mysql -u root -p" and enter your personal password. Now we will type "source schema.sql" and "source seeds.sql" 
+- To exit MySQL we will type "exit" then proceed to type "npm run start"
+- Now you can view the database and add or remove things
 ## License
 - MIT License
 - Copyright 2021
