@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Link to Public Repo on Github:
-https://github.com/BionicMatedorX/OOP.Team.Profile.Generator.HW
+https://github.com/BionicMatedorX/HW-12-Employee-Tracker
 # Disclaimer
 The generated HTML file will be found in the GeneratedMarkup folder in the repo.
 ## Table of Contents
