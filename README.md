@@ -16,7 +16,7 @@ The generated HTML file will be found in the GeneratedMarkup folder in the repo.
 - This project is to showcase to a user how to work in a database that contains specific employee information within a company's records. Using inquirer we can help a user navigate a database. We can guide the user using quiestions to update the company's database.
 ## Video Walkthrough
 - Here is a walkthrough of how the app works
-  <a target="_blank" href="https://watch.screencastify.com/v/Bz1zebfe9CYtrAAyG7Bs">View the Footage Here</a>
+  <a target="_blank" href="https://watch.screencastify.com/v/Qb2YToN6wR4uR6kPchnk">View the Footage Here</a>
 ## User Story
     AS A business owner
     I WANT to be able to view and manage the departments, roles, and employees in my company
