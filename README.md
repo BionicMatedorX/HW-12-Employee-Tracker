@@ -8,7 +8,7 @@ The generated HTML file will be found in the GeneratedMarkup folder in the repo.
 ## Table of Contents
 1. [Description](#Description)
 2. [Video Walkthrough](#Installation)
-3. [User Story](#Usage)
+3. [User Story](#User-Story)
 4. [Initialization](#Contributing-Guidelines)
 5. [License](#License)
 6. [Questions](#Questions)
